@@ -43,7 +43,7 @@ python -m http.server 8000
 
 # Node.js ile
 npx serve .
-
+```
 
 3. **Tarayıcıda açın**
 ```
